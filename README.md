@@ -1,4 +1,4 @@
-# Alcohol Skill Game
+# BrawToFall
 
 ## Description
 Alcohol Skill Game is a text-based game where players can improve their drinking skills, manage their stability, and level up. Players select drinks from a shop that affect their stability and can upgrade their skills with accumulated points.
@@ -25,8 +25,8 @@ Alcohol Skill Game is a text-based game where players can improve their drinking
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/alcohol-skill-game.git
-   cd alcohol-skill-game
+   git clone https://github.com/trifon1402/Source-code-of-c-drinking-game.git
+   cd Source-code-of-c-drinking-game
 
     Compile the code:
 
@@ -38,7 +38,7 @@ Run the game:
 
 bash
 
-    ./alcohol_game
+    ./main
 
 Usage
 
