@@ -40,16 +40,23 @@ bash
 
     ./main
 
-#Usage
+## Usage
 
 In Main menu is 6 functions
+
 1.Start - you start to drink with every press of Enter and there is Statistic. You need to Buy Alcohol to start drionking
+
 2.Settings - ther is nothing there will be all game controle settings and stabitity regenerator. BUG - There is 2 func nad they don't work will be fixed. 
+
 3.Shop - This is the place we buy alkohol but for now everything is free just select it.
+
 4.View skill status - In this place you can see all Statistic you have.
+
 5.Upgrade skill - There is palce to upgrade your stability barr and drinking skill.wit every point you add 25 to stability max in default stabiliti max is 25. when you upgrade drinking you upgrade level point you have  with every skill point put it in drinking you gain |levelpoint you win * 2|.
+
 6.Exit - This is the way you can save your progress. Never skipt it. Or it can't be saved.
-#License
+
+## License
 
 This game is licensed under the MIT License. See the LICENSE file for more details.
 Contact
