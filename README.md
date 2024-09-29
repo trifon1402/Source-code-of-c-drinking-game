@@ -10,6 +10,14 @@ Alcohol Skill Game is a text-based game where players can improve their drinking
 - Stability recovery over time.
 - Save and load game progress.
 
+## Planned Features
+1. Fix the stability gain in the settings menu.
+2. Ensure that skill points are correctly tracked.
+3. Adjust starting stability from 100 to 0.
+4. Investigate and resolve any additional issues.
+5. Introduce a boss fight. The first boss, "Qnkata," will drink "Pirinsko" and will have a stability of 16, unlike the player who starts with 100 stability.
+6. Implement an in-game currency system. Players will earn currency by defeating bosses, allowing them to purchase new alcoholic drinks.
+
 ## Requirements
 - C++ compiler (e.g., g++)
 - Standard C++ library
@@ -66,9 +74,7 @@ If you have any questions or suggestions, feel free to reach out to me at [your_
 vbnet
 
 
-### What to Do:
-- Replace `your_username` with your GitHub username.
-- Add your email address in the contact section.
-- You can modify or add to the text to better reflect your game.
+### Changes Made:
+- Added a "Planned Features" section that outlines the improvements and new features you intend to implement.
 
-Let me know if you need any further adjustments!
+Feel free to customize further or let me know if you need more adjustments!
