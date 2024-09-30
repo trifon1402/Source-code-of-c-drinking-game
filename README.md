@@ -33,8 +33,8 @@ cd Source-code-of-c-drinking-game
 
     2.Compile the code:
 
-```
 
+```
 g++ main.cpp -o brawtofall
 ```
 
