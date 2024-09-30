@@ -36,9 +36,10 @@ g++ main.cpp -o alcohol_game -pthread
 ```
 Run the game:
 
-bash
+```
 
-    ./main
+./main
+```
 
 ## Usage
 
