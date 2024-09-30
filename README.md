@@ -36,10 +36,10 @@ cd Source-code-of-c-drinking-game
 ```
 
 g++ main.cpp -o brawtofall
+```
 
 
-
-    Run the game:
+Run the game:
 
 ```
 ./main
