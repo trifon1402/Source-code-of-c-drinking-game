@@ -33,7 +33,7 @@ Alcohol Skill Game is a text-based game where players can improve their drinking
 ```bash
 
 g++ main.cpp -o alcohol_game -pthread
-
+```
 Run the game:
 
 bash
