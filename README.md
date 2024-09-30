@@ -30,6 +30,7 @@ git clone https://github.com/trifon1402/Source-code-of-c-drinking-game.git
 cd Source-code-of-c-drinking-game
 ```
 
+
     2.Compile the code:
 
 ```
@@ -40,6 +41,7 @@ g++ main.cpp -o brawtofall
     Run the game:
 
 ```
+
 ./main
 
 
