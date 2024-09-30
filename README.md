@@ -31,7 +31,8 @@ cd Source-code-of-c-drinking-game
 ```
 
 
-    2.Compile the code:
+
+2.Compile the code:
 
 
 ```
