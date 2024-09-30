@@ -30,7 +30,7 @@ Alcohol Skill Game is a text-based game where players can improve their drinking
 
 2.Compile the code:
 
-```bash
+```
 
 g++ main.cpp -o alcohol_game -pthread
 ```
