@@ -41,7 +41,6 @@ g++ main.cpp -o brawtofall
     Run the game:
 
 ```
-
 ./main
 
 
