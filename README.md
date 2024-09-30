@@ -41,7 +41,7 @@ g++ main.cpp -o brawtofall
 
 ```
 ./main
-```
+
 
 ## Usage
 
