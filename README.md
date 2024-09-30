@@ -43,6 +43,7 @@ Run the game:
 
 ```
 ./main
+```
 
 
 ## Usage
