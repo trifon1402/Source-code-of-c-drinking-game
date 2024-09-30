@@ -70,8 +70,6 @@ Contact
 
 If you have any questions or suggestions, feel free to reach out to me at trifon1404@abv.bg.
 
-vbnet
-
 
 ### Changes Made:
 - Added a "Planned Features" section that outlines the improvements and new features you intend to implement.
