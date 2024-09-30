@@ -28,9 +28,9 @@ Alcohol Skill Game is a text-based game where players can improve their drinking
    git clone https://github.com/trifon1402/Source-code-of-c-drinking-game.git
    cd Source-code-of-c-drinking-game
 
-    Compile the code:
+2.Compile the code:
 
-    bash
+bash
 
 g++ main.cpp -o alcohol_game -pthread
 
